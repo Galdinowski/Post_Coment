@@ -1,0 +1,15 @@
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/bin/Debug/net8.0/Post_Coment
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/bin/Debug/net8.0/Post_Coment.deps.json
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/bin/Debug/net8.0/Post_Coment.runtimeconfig.json
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/bin/Debug/net8.0/Post_Coment.dll
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/bin/Debug/net8.0/Post_Coment.pdb
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/obj/Debug/net8.0/Post_Coment.GeneratedMSBuildEditorConfig.editorconfig
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/obj/Debug/net8.0/Post_Coment.AssemblyInfoInputs.cache
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/obj/Debug/net8.0/Post_Coment.AssemblyInfo.cs
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/obj/Debug/net8.0/Post_Coment.csproj.CoreCompileInputs.cache
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/obj/Debug/net8.0/Post_Coment.sourcelink.json
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/obj/Debug/net8.0/Post_Coment.dll
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/obj/Debug/net8.0/refint/Post_Coment.dll
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/obj/Debug/net8.0/Post_Coment.pdb
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/obj/Debug/net8.0/Post_Coment.genruntimeconfig.cache
+/home/dinolinux/CodigosMeus/CSharp/Post_Coment/obj/Debug/net8.0/ref/Post_Coment.dll
